@@ -1,4 +1,6 @@
 import React, { useEffect } from 'react'
+import {  AiOutlineLine } from 'react-icons/ai'
+import { SiGithub, SiGithubactions, SiMongodb, SiMysql, SiNetlify, SiPostgresql } from 'react-icons/si'
 import { GrHeroku } from 'react-icons/gr'
 import { MdOutlineDoneAll } from 'react-icons/md'
 import bg from "../img/cloud-bg-3.gif"
